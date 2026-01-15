@@ -40,7 +40,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
         ),
       );
       await actions.redirect(
-        'https://wa.me/523329647285',
+        'https://wa.me/message/TRETXAA6F7YQI1',
       );
     });
 
